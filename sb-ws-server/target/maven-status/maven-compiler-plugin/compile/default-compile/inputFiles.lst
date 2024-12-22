@@ -1,0 +1,10 @@
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/PermissionService.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/config/CXFConfig.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/controller/DemoController.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/impl/PermissionServiceImpl.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/RoleService.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/domain/User.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/impl/UserServiceImpl.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/impl/RoleServiceImpl.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/SbWebServiceApp.java
+/Users/jimeilin/w4code/sb-webservice/sb-ws-server/src/main/java/ml/sb/ws/service/UserService.java
